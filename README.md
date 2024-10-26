@@ -1,4 +1,4 @@
-# Test System fro Online Cart
+# Test System for Online Cart
 ## See Live - https://portfolio-test-system-cart.netlify.app
 
 ![App Screenshot](/img/screenshot.PNG)
